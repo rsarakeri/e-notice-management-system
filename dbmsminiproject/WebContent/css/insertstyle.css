@@ -1,0 +1,51 @@
+@charset "ISO-8859-1";
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit],button {
+  width: 100px%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+body{
+background-color:white;
+}
+.ff{
+
+width:700px;
+height:500px;
+padding-left:60px;
+}
+ul {
+margin-top: 30px;
+text-decoration:none;
+
+}
+
+li{
+	width: 40px;
+	height: 20px;
+	float: right;
+	list-style-type: none;
+	padding: 10px;
+    margin-right:30px;
+}
+.delete{
+margin:50px;
+}
