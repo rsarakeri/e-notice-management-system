@@ -1,13 +1,13 @@
 # e-notice-management-system
 This is a simple Online notice management system for institute.We have made this in eclipse IDE used jQuery,html,css,apache
 
-3.1 Problem Statement 
+-----Problem Statement 
 In the modern society, many people have access to modern technology.  Therefore the wall notice board is outdated and has many limitations.
 Examples of limitations: Insufficient space leading to overlapping posts. It is hard to know the latest posts. You cannot know how many
 people viewed your post. It is a wasting a time and paper also which is manual process. It doesn’t conform to its accessibility at anytime
 and anywhere. 
  
-3.1 Aim of the Work 
+----Aim of the Work 
 It is not required to going at College Notice Board see information regarding any event or advertise or a message. The College easily posts
 all types of message on the notice board. Student can easily go through these anytime and anywhere!.  Therefore, the need to adopt  the 
 E-notice is necessary so as to digitize the normal notice board.
@@ -24,13 +24,8 @@ Sl.No Requirements  Specification
  
  
  
-      Software specification 
- 
- 
-Minimum software specification 
- 
-Sl.No 
- 
+Software specification 
+  
 Requirements  Specification 
 1 Operating system  Windows or Linux 
 2 Software  Eclipse,MySQL phpmyAdmin 
